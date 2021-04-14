@@ -1,0 +1,7 @@
+{
+  "name": "TestShop",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
